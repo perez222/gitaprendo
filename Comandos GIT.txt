@@ -15,5 +15,9 @@ git rm --canched
 *Para guargar un procemo en GIT:
 git commit -m "Mensaje para saber que se realizó"
 
+*Regirar correo y nombre de usuario en GIT:
+git config --local user.name "Tu nombre aquí"
+git config --local user.email "Tu@email.aqui”
+
 
 
