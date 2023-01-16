@@ -1,0 +1,19 @@
+*Comando para iniciar GIT:
+git init
+
+*Para ver el estado de GIT:
+git status
+
+*Guardar modificación en GIT:
+git add nombre-archivo
+
+git add .= para todos los archivos
+
+*Para dejar de monitoriar un archivo en GIT:
+git rm --canched
+
+*Para guargar un procemo en GIT:
+git commit -m "Mensaje para saber que se realizó"
+
+
+
